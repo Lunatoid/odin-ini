@@ -230,7 +230,7 @@ remove_with_section :: proc(ini: ^Ini_File, section: string, key: string) {
 
 // ZLIB LICENSE
 //  
-//  Copyright (c) 2019 Tom Mol
+//  Copyright (c) 2019-2020 Tom Mol
 //  
 //  This software is provided 'as-is', without any express or implied
 //  warranty. In no event will the authors be held liable for any damages
